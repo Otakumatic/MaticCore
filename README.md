@@ -1,6 +1,6 @@
 MaticCore BETA 1
-By Alex "Otakumatic" Elmore
 =========
+By Alex "Otakumatic" Elmore
 
 Wordpress theming core using HTML5 and CSS3 along with jQuery. The theme comes as a blank, style-less Wordpress 3.x theme which users can customize however they want. It also uses easy-to-understand CSS and HTML terms, so learning how to use MaticCore is very simple to do. The design can also be adjusted height and width-wise.
 
