@@ -9,6 +9,4 @@ For licensing details, please check LICENSE.txt included in this software, or br
 Please note this is a beta copy, and any bugs should be reported to alex@otakumatic.net. Thank you.
 
 ----------------------------
-MaticCore BETA 1 - Revision 6.13.2013
-Last edited on: June 13, 2013
-Edited by: Alex "Otakumatic" Elmore
+MaticCore BETA 1 - Revision 6.13.2013 | Last edited on: June 13, 2013 | Edited by: Alex "Otakumatic" Elmore
